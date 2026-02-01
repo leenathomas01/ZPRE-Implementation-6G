@@ -66,6 +66,5 @@ This repository applies bio-inspired optimization to 6G ISAC systems.
 **Thematically related:**
 - [Zero Water AI Data Center](https://github.com/leenathomas01/zero-water-ai-dc) — Infrastructure optimization
 - [Connector OS](https://github.com/leenathomas01/connector-os-trenchcoat) — Biological thresholds for AI
-- [Research Index](https://github.com/leenathomas01/research-index) — Complete catalog of infrastructure and cognitive work
 
 ---
