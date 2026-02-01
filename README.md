@@ -52,3 +52,20 @@ ZPRE-Implementation/
 ├── examples/                # Usage demos (planned)
 ├── docs/                    # Architecture notes (planned)
 └── tests/                   # Validation suites (planned)
+
+```
+---
+
+## Related Work
+
+This repository applies bio-inspired optimization to 6G ISAC systems.
+
+**For a complete catalog of related research:**  
+📂 [AI Safety & Systems Architecture Research Index](https://github.com/leenathomas01/research-index)
+
+**Thematically related:**
+- [Zero Water AI Data Center](https://github.com/leenathomas01/zero-water-ai-dc) — Infrastructure optimization
+- [Connector OS](https://github.com/leenathomas01/connector-os-trenchcoat) — Biological thresholds for AI
+- [Research Index](https://github.com/leenathomas01/research-index) — Complete catalog of infrastructure and cognitive work
+
+---
