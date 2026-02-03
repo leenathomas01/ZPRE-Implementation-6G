@@ -3,8 +3,10 @@
 
 ---
 > ℹ️ This repository preserves the original research prototype for bio-inspired wireless optimization in 6G ISAC.
-> 
-> The code is maintained as a complete experimental snapshot accompanying the research, rather than an actively evolving software project. The files represent the complete experimental implementation as it existed at the conclusion of the study.
+>
+> The code is maintained as a complete experimental snapshot accompanying the research, rather than an actively evolving software project.
+>
+> The files here represent the full implementation exactly as it existed at the conclusion of the study.
 
 ---
 
