@@ -2,10 +2,15 @@
 **Bio-Inspired Wireless Optimization for 6G ISAC**
 
 ---
-> ⚠️ This repository is an archived research prototype.
-> 
-> It demonstrates early experimental implementations exploring bio-inspired wireless optimization for 6G ISAC.
-> The code is preserved as a research artifact and is not under active development.
+### Repository snapshot
+
+This repository intentionally contains only the original prototype modules developed during the research phase:
+
+- `FxLMS_UDP_Prototype.py`
+- `ZPRE_Benchmarking.py`
+- `6G_ISAC_Integration.py`
+
+These files represent the complete experimental implementation as it existed at the conclusion of the study.
 
 ---
 
