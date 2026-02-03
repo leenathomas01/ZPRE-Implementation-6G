@@ -2,6 +2,12 @@
 **Bio-Inspired Wireless Optimization for 6G ISAC**
 
 ---
+> ⚠️ This repository is an archived research prototype.
+> 
+> It demonstrates early experimental implementations exploring bio-inspired wireless optimization for 6G ISAC.
+> The code is preserved as a research artifact and is not under active development.
+
+---
 
 ## 🌐 Abstract
 ZPRE-Implementation provides working prototypes of adaptive, bio-inspired algorithms for wireless optimization in next-generation networks.  
