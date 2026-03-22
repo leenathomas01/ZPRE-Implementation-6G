@@ -5,7 +5,7 @@
 
 A boundary study on the limits of adaptive interference cancellation under adversarial signal structures.
 
-**Status: v1.0 - Stabilized Research Release**
+**Status: v1.0.0 - Stabilized Research Release**
 
 ---
 > This repository preserves the complete experimental snapshot accompanying the research.
