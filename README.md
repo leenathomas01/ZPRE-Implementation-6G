@@ -1,5 +1,7 @@
 ![Version](https://img.shields.io/badge/version-v1.0.0-blue)
 
+_**Note**_: For further understanding, I have created an [**article**](https://medium.com/@leenathomas01/where-adaptive-learning-stops-the-learnability-boundary-819b03ad0780) on the repo concept. 
+
 # ZPRE-Implementation  
 **Adaptive Convergence Boundary for 6G ISAC**
 
